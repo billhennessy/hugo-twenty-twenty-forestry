@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = " https://github.com/wisnuwiry/personal-site"
+theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Bill Hennessy"
 [markup.goldmark.renderer]
 unsafe = true
