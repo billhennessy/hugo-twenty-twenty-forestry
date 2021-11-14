@@ -9,3 +9,12 @@ tags = ["Forestry"]
 title = "Checking out Forestry"
 
 +++
+This is my first post on Forestry. 
+
+Let's see how it looks.
+
+1. List
+2. List
+3. List
+
+[The Gateway Pundit](https://thegatewaypundit.com)
