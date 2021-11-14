@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = " https://github.com/wisnuwiry/personal-site"
-title = "Twenty Twenty Hugo for Forestry"
+title = "Bill Hennessy"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
