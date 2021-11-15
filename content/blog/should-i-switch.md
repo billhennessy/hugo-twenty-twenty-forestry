@@ -3,7 +3,6 @@ author = ["Bill Hennessy"]
 categories = ["Living"]
 date = 2021-11-15T06:00:00Z
 description = "Thoughts about archiving older posts"
-draft = true
 image = "/images/screen-shot-2021-06-16-at-8-18-51-pm.png"
 tags = ["blog"]
 title = "Should I Switch?"
